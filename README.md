@@ -127,19 +127,19 @@ flowchart TD
 ## 🖥️ Application Screenshots
 
 ### 1. SOC Dashboard
-![SentinelAI Dashboard](Screenshots/dashboard.png)
+![SentinelAI Dashboard](Screenshots/Dashboard.png)
 
 ### 2. Security Alerts
-![Security Alerts](Screenshots/alerts.png)
+![Security Alerts](Screenshots/Alert_Triage.png)
 
 ### 3. Incident Management
-![Incident Management](Screenshots/incidents.png)
+![Incident Management](Screenshots/Incident_Room.png)
 
 ### 4. AI SOC Analyst
-![AI SOC Analyst](Screenshots/ai-copilot.png)
+![AI SOC Analyst](Screenshots/detection_rule.png)
 
 ### 5. Incident Report
-![Incident Report](Screenshots/incident-report.png)
+![Incident Report](Screenshots/log_explorer.png)
 
 ---
 
