@@ -136,10 +136,10 @@ flowchart TD
 ![Incident Management](Screenshots/Incident_Room.png)
 
 ### 4. AI SOC Analyst
-![AI SOC Analyst](Screenshots/detection_rule.png)
+![AI SOC Analyst](Screenshots/detection_Rule.png)
 
 ### 5. Incident Report
-![Incident Report](Screenshots/log_explorer.png)
+![Incident Report](Screenshots/Log_Explorer.png)
 
 ---
 
@@ -212,3 +212,21 @@ Follow these steps to demonstrate the full capabilities of SentinelAI:
    - Click **"AI Copilot"** in the top navigation bar.
    - Ask: *"What should be our immediate containment step?"* or *"Draft firewall drop rule for the malicious IP"*.
    - Watch SentinelAI provide contextual, actionable SOC guidance!
+
+
+   ## 👥 Team Members & Responsibilities
+
+The SentinelAI project was collaboratively developed by a team of six members, with each member contributing to a specific module of the system.
+
+| Team Member | Role | Responsibilities |
+|---|---|---|
+| Member 1 | Log Collection & Processing | Security log collection, parsing, preprocessing, normalization and validation. |
+| Member 2 | Threat Detection | Development of detection rules and identification of suspicious activities and security threats. |
+| Member 3 | Alert Correlation & Triage | Alert correlation, duplicate alert removal, alert classification and severity assignment. |
+| Member 4 | AI & Risk Analysis | AI-assisted security analysis, threat risk scoring and threat prioritization. |
+| Member 5 | Frontend Development | Design and development of the interactive dashboard, alert views, log explorer and incident management interface. |
+| Member 6 | Backend & Integration | FastAPI development, database management, API integration, WebSocket communication and system testing. |
+
+### Collaborative Development
+
+All team members contributed to the development, integration, testing and documentation of the SentinelAI platform to build a unified security monitoring and threat management system.
